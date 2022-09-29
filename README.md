@@ -7,6 +7,7 @@
 ///////////////Second Step////////////////////////
 =>If you Want to run in your pycharm you must select python as interpreter =>for selecting and installing python,package goto file option then press setting =>after selecting interpreter you have to install some package into your interpreter =>if you dont install packge the codes are showing Error =>follow step 3 for package name =>install latest version of all package =>all package must need to be install =>for more information goto youtube
 //////////////Third Step////////////////////////////
+
 Package Name And Details
 Django	4.1	4.1
 Pillow	9.2.0	9.2.0
@@ -44,17 +45,3 @@ If there is any problem contact with us
 
 /////////////About us//////////////////////////////
 / Name: Armin Jahan Neha / / Email: arminneha9@gmail.com / / / / / Name: Najnine Afroz Estina / / Email: najnineafrozestina@gmail.com / / / / Name: Rifa Tamanna / / Email:trifa771@gmail.com / / / / Student of Computer Science and Engineering / / North Western University,Khulna,Bangladesh /
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
