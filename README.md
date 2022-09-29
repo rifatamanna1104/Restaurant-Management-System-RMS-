@@ -1,11 +1,16 @@
 # Restaurant-Management-System-RMS-
 
 
+
 //////For Run This Project //////
+
 ///////////////First Step///////////////////////
+
 =>intall python latest version =>intall pycharm latest version =>after install this two software open pycharm software =>for open sourse code in pycharm goto file option then press open then select the Project Sourse code folder
+
 ///////////////Second Step////////////////////////
 =>If you Want to run in your pycharm you must select python as interpreter =>for selecting and installing python,package goto file option then press setting =>after selecting interpreter you have to install some package into your interpreter =>if you dont install packge the codes are showing Error =>follow step 3 for package name =>install latest version of all package =>all package must need to be install =>for more information goto youtube
+
 //////////////Third Step////////////////////////////
 
 Package Name And Details
@@ -55,7 +60,9 @@ sqlparse	0.4.2	0.4.2
 tzdata	2022.1	2022.2
 
 
+
 //////////////Step 4//////////////////////////////
+
 
 After Doing this All select the main.py file and run it.
 The Project Will Successfully Run
@@ -64,7 +71,10 @@ and check log_in for user name and password or open project login info and table
 and get user name and password
 After successfully login check all the option
 
+
 If there is any problem contact with us
 
+
 /////////////About us//////////////////////////////
+
 / Name: Armin Jahan Neha / / Email: arminneha9@gmail.com / / / / / Name: Najnine Afroz Estina / / Email: najnineafrozestina@gmail.com / / / / Name: Rifa Tamanna / / Email:trifa771@gmail.com / / / / Student of Computer Science and Engineering / / North Western University,Khulna,Bangladesh /
